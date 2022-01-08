@@ -1,7 +1,3 @@
-[![Website](https://img.shields.io/website-up-down-green-red/http/i.dmego.cn.svg)](http://i.dmego.cn/)
-[![License](https://img.shields.io/github/license/dmego/home.github.io.svg)](/LICENSE)
-[![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)](https://saythanks.io/to/dmego)
-
 ### 个人主页
 
 >这是我的个人主页
@@ -16,15 +12,15 @@
 
 >静态图
 
-![主页JPG](./img/home.jpg)
+![主页JPG](https://gyzzdjyi.github.io/img/wbb_home.JPG)
 
 >动态图
 
-![主页GIF](./img/home.gif)
+![主页GIF](https://gyzzdjyi.github.io/img/wbb_home.JPG)
 
 ### 注
 
-- 访问地址：[个人主页](http://i.dmego.cn/)
+- 访问地址：[个人主页](https://gyzzdjyi.github.io/)
 - 使用了 [一言](http://hitokoto.cn/) 的 API 服务
 - ~~使用了 [Bing 壁纸 API](https://github.com/xCss/bing/) 服务~~
 - ~~使用了 [Yahoo Query Language (YQL)](https://developer.yahoo.com/yql/) 来解决获取 Bing 壁纸跨域问题~~
@@ -44,4 +40,4 @@
 
 ### 更新时间
 
->2021-11-25
+>2022-01-08
